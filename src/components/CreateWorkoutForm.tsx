@@ -4,7 +4,7 @@ type Props = {}
 
 const CreateWorkoutForm = (props: Props) => {
   return (
-    <div>d</div>
+    <div></div>
   )
 }
 
